@@ -1,0 +1,56 @@
+{
+  "name": "digital-agency-website",
+  "version": "1.2.0",
+  "description": "Official KESENCY Website (front-end part)",
+  "dependencies": {
+    "@fortawesome/free-brands-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "bootstrap": "^5.3.1",
+    "next": "^13.4.19",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.8.0",
+    "react-dom": "^18.2.0",
+    "react-google-recaptcha": "^3.1.0",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.7",
+    "@types/react": "^18.2.21",
+    "@types/react-dom": "^18.2.7",
+    "@types/react-google-recaptcha": "^2.1.5",
+    "@types/react-slick": "^0.23.10",
+    "@typescript-eslint/eslint-plugin": "^6.5.0",
+    "@typescript-eslint/parser": "^6.5.0",
+    "eslint": "^8.48.0",
+    "eslint-config-next": "^13.4.19",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "info": "next info"
+  },
+  "browserslist": [
+    "> 0.5%",
+    "not dead",
+    "not ie <= 11",
+    "not Safari > 0"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enes-th/digital-agency-website.git"
+  },
+  "author": "KESENCY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enes-th/digital-agency-website/issues"
+  },
+  "homepage": "https://github.com/enes-th/digital-agency-website#readme",
+  "private": true
+}
